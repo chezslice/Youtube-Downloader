@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "youtube downloader", "youtube downloader\youtube downloader.pyproj", "{71F94449-106C-4636-BA2F-364107AF2211}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71F94449-106C-4636-BA2F-364107AF2211}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71F94449-106C-4636-BA2F-364107AF2211}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93924FFA-79B1-4285-8AE1-C44DF611C7B9}
+	EndGlobalSection
+EndGlobal
